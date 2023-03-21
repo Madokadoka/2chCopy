@@ -1,0 +1,132 @@
+body{
+    background-color: #15202b;
+}
+header{
+display: flex;
+}
+header img{
+    margin-left: auto;
+    margin-right: auto;
+}
+.info p{
+    font-family: open sans,sans-serif;
+    text-align: justify;
+    max-width: 940px;
+    width: 100%;
+    margin: 0 0 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    color: #ccc
+}
+.info p1{
+    font-family: open sans,sans-serif;
+    text-align: justify;
+    max-width: 940px;
+    width: 100%;
+    margin: 0 0 20px;
+    margin-left: 20%;
+    margin-right: auto;
+}
+.info span{
+    color:  #c3672a;
+}
+.info span1{
+    font-weight: bold;
+}
+.info span2{
+    font-weight: bold;
+}
+.button {
+    font-family: open sans,sans-serif;
+    text-decoration: none;
+    text-align: center;
+    color: #ccc;
+border-radius: 10%;
+background-color: #192734;
+margin-left: 30%;
+margin-top: 50px;
+width: 300px;
+padding: 14px;
+border-radius: 8px;
+}
+.button1 {
+    font-family: open sans,sans-serif;
+    text-decoration: none;
+    text-align: center;
+    color: #ccc;
+border-radius: 10%;
+background-color: #192734;
+margin-top: -47px;
+margin-left: 56%;
+width: 300px;
+padding: 14px;
+border-radius: 8px;
+}
+.anon{
+    margin-left: 16%;
+margin-top: 3%;
+max-width: 940px;
+    width: 100%;
+}
+ul{
+    margin-top: 50px;
+    color: #ccc;
+    text-decoration: none;
+    display: block;
+    list-style-type: disc;
+margin-left: 16%;
+    padding-inline-start: 40px;
+}
+li  {
+
+color: #c3672a;
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: #ccc;
+}
+ul p{
+    margin-top: 2%;
+    font-weight: bold;
+}
+li a{
+    font-family: trebuchet ms,sans-serif;
+    color: #c3672a;
+}
+.col1{
+    margin-top: -480px;
+    margin-left: 20%;
+}
+.col2{
+    margin-top: -50px;
+    margin-left: 20%; 
+}
+.col3{
+    margin-left: 20%; 
+    
+}
+.col4{
+    margin-left: 40%; 
+    margin-top: -590px;
+}
+.col5{
+    margin-top: -20px;
+    margin-left: 40%; 
+}
+.col6{
+    margin-left: 60%; 
+    margin-top: -470px;
+}
+.news{
+    margin-top: 30%;
+    max-width: 940px;
+    margin-left: 5%;
+}
+.news li{
+    font-family: trebuchet ms,sans-serif;
+    font-weight: 500;
+    color: #ff6600;
+    margin-top: 4px;
+}
